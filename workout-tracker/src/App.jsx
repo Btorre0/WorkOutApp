@@ -1147,20 +1147,6 @@ function App() {
           )}
         </div>
       </section>
-      <section className="section future-section">
-        <div>
-          <p className="eyebrow">Coming next</p>
-          <h2>Planned features</h2>
-        </div>
-
-        <ul>
-          <li>User profiles and saved preferences</li>
-          <li>Workout calendar view</li>
-          <li>Larger exercise library</li>
-          <li>More detailed progress charts</li>
-          <li>Cloud syncing across devices</li>
-        </ul>
-      </section>
 
       <section className="section" id="history">
         <div className="section-title">
